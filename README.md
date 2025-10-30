@@ -9,3 +9,5 @@ I'm an: <br>
 `python software developer`
 <br> I'm also a ***3D***
 artist 
+<br>
+[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>](https://www.youtube.com/@HesamMotion_EN)

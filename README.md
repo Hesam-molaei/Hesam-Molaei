@@ -1,4 +1,4 @@
-# ✨ Hesam-Molaei ✨
+# ✨ Hesam Molaei ✨
 **Hi**, I'm hesam,  
 I'm an: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>
@@ -8,4 +8,4 @@ I'm an: <br>
 <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 `python software developer`
 <br> I'm also a ***3D***
-artist
+artist 

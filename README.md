@@ -7,3 +7,5 @@ I'm an: <br>
 `html / css / php / js desginer`, 
 <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 `python software programmer`
+also I'm a <img src="https://cdn-icons-png.flaticon.com/512/2469/2469204.png" width="40" height="40"/>
+artist

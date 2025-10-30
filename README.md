@@ -6,20 +6,17 @@ Here’s what I do:
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>  
-`Animator` — I bring ideas to life with Blender and 3D motion.
+`Animator`
 
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>  
-`Web Designer & Developer` — I craft responsive websites using HTML, CSS, JS, and PHP.
+`Web Designer & Developer`
 
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
-`Python Developer` — I build smart tools and automation scripts with Python.
+`Python Developer`
 
 <br>
 

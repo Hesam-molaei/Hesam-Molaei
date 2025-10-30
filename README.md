@@ -5,21 +5,15 @@ Here’s what I do:
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>
 `Animator`
-
 <br>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 `Web Designer & Developer`
-
 <br>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
 `Python Developer`
-
 <br>
-
 🎨 I'm also a ***3D Artist*** — modeling, texturing, and rendering immersive visuals.
 
 ---
